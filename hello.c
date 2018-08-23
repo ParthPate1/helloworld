@@ -8,6 +8,6 @@ Description: hack01 hello world
 
 int main(int argc, char **argv) {
   printf("Parth Patel, major: computer engineering\n");
-
+  printf("Jayson Cheng, major: electrical engineering\n");
   return 0;
 }
